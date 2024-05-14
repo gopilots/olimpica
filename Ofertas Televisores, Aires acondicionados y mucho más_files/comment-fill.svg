@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="9 6 24 22.73">
+  <defs>
+    <filter id="comment_FILL1_wght400_GRAD0_opsz48" x="0" y="0" width="42" height="40.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#comment_FILL1_wght400_GRAD0_opsz48)">
+    <path id="comment_FILL1_wght400_GRAD0_opsz48-2" data-name="comment_FILL1_wght400_GRAD0_opsz48" d="M85.94,190.1h12.6a.868.868,0,0,0,.641-.26.879.879,0,0,0,.259-.645.861.861,0,0,0-.259-.64.877.877,0,0,0-.641-.255H85.94a.868.868,0,0,0-.641.26.879.879,0,0,0-.259.645.861.861,0,0,0,.259.64A.877.877,0,0,0,85.94,190.1Zm0-3.9h12.6a.868.868,0,0,0,.641-.26.879.879,0,0,0,.259-.645.861.861,0,0,0-.259-.64.878.878,0,0,0-.641-.255H85.94a.868.868,0,0,0-.641.26.879.879,0,0,0-.259.645.861.861,0,0,0,.259.64A.877.877,0,0,0,85.94,186.2Zm0-3.9h12.6a.868.868,0,0,0,.641-.26.879.879,0,0,0,.259-.645.861.861,0,0,0-.259-.64.878.878,0,0,0-.641-.255H85.94a.868.868,0,0,0-.641.26.879.879,0,0,0-.259.645.861.861,0,0,0,.259.64A.877.877,0,0,0,85.94,182.3Zm16.53,16.17L99.2,195.2H81.8a1.9,1.9,0,0,1-1.8-1.8V177.8a1.9,1.9,0,0,1,1.8-1.8h20.4a1.7,1.7,0,0,1,1.26.555A1.744,1.744,0,0,1,104,177.8v20.04a.9.9,0,0,1-1.53.63Z" transform="translate(-71 -170)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="9.01 6.01 18.49 18.49">
+  <defs>
+    <filter id="close_FILL1_wght500_GRAD0_opsz48" x="0" y="0" width="36.5" height="36.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#close_FILL1_wght500_GRAD0_opsz48)">
+    <path id="close_FILL1_wght500_GRAD0_opsz48-2" data-name="close_FILL1_wght500_GRAD0_opsz48" d="M223.935,321.556l-7.033,7.033a1.146,1.146,0,1,1-1.621-1.621l7.033-7.033-7.033-7.033a1.146,1.146,0,1,1,1.621-1.621l7.033,7.033,7.033-7.033a1.146,1.146,0,1,1,1.621,1.621l-7.033,7.033,7.033,7.033a1.146,1.146,0,1,1-1.621,1.621Z" transform="translate(-205.68 -304.68)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+  </g>
+</svg>
